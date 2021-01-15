@@ -17,49 +17,49 @@
     - [ ] [Stack](#stack)
     - [ ] [Queue](#queue)
     - [ ] [Hash table](#hash-table)
-- [More Knowledge](#more-knowledge)
-    - [Binary search](#binary-search)
-    - [Bitwise operations](#bitwise-operations)
-- [Trees](#trees)
-    - [Trees - Notes & Background](#trees---notes--background)
-    - [Binary search trees: BSTs](#binary-search-trees-bsts)
-    - [Heap / Priority Queue / Binary Heap](#heap--priority-queue--binary-heap)
-    - balanced search trees (general concept, not details)
-    - traversals: preorder, inorder, postorder, BFS, DFS
-- [Sorting](#sorting)
-    - selection
-    - insertion
-    - heapsort
-    - quicksort
-    - merge sort
-- [Graphs](#graphs)
-    - directed
-    - undirected
-    - adjacency matrix
-    - adjacency list
-    - traversals: BFS, DFS
-- [Even More Knowledge](#even-more-knowledge)
-    - [Recursion](#recursion)
-    - [Dynamic Programming](#dynamic-programming)
-    - [Object-Oriented Programming](#object-oriented-programming)
-    - [Design Patterns](#design-patterns)
-    - [Combinatorics (n choose k) & Probability](#combinatorics-n-choose-k--probability)
-    - [NP, NP-Complete and Approximation Algorithms](#np-np-complete-and-approximation-algorithms)
-    - [Caches](#caches)
-    - [Processes and Threads](#processes-and-threads)
-    - [Testing](#testing)
-    - [Scheduling](#scheduling)
-    - [String searching & manipulations](#string-searching--manipulations)
-    - [Tries](#tries)
-    - [Floating Point Numbers](#floating-point-numbers)
-    - [Unicode](#unicode)
-    - [Endianness](#endianness)
-    - [Networking](#networking)
-- [System Design, Scalability, Data Handling](#system-design-scalability-data-handling) (if you have 4+ years experience)
-- [Final Review](#final-review)
-- [Coding Question Practice](#coding-question-practice)
-- [Coding exercises/challenges](#coding-exerciseschallenges)
-- [Once you're closer to the interview](#once-youre-closer-to-the-interview)
+- [ ] [More Knowledge](#more-knowledge)
+    - [ ] [Binary search](#binary-search)
+    - [ ] [Bitwise operations](#bitwise-operations)
+- [ ] [Trees](#trees)
+    - [ ] [Trees - Notes & Background](#trees---notes--background)
+    - [ ] [Binary search trees: BSTs](#binary-search-trees-bsts)
+    - [ ] [Heap / Priority Queue / Binary Heap](#heap--priority-queue--binary-heap)
+    - [ ] balanced search trees (general concept, not details)
+    - [ ] traversals: preorder, inorder, postorder, BFS, DFS
+- [ ] [Sorting](#sorting)
+    - [ ] selection
+    - [ ] insertion
+    - [ ] heapsort
+    - [ ] quicksort
+    - [ ] merge sort
+- [ ] [Graphs](#graphs)
+    - [ ] directed
+    - [ ] undirected
+    - [ ] adjacency matrix
+    - [ ] adjacency list
+    - [ ] traversals: BFS, DFS
+- [ ] [Even More Knowledge](#even-more-knowledge)
+    - [ ] [Recursion](#recursion)
+    - [ ] [Dynamic Programming](#dynamic-programming)
+    - [ ] [Object-Oriented Programming](#object-oriented-programming)
+    - [ ] [Design Patterns](#design-patterns)
+    - [ ] [Combinatorics (n choose k) & Probability](#combinatorics-n-choose-k--probability)
+    - [ ] [NP, NP-Complete and Approximation Algorithms](#np-np-complete-and-approximation-algorithms)
+    - [ ] [Caches](#caches)
+    - [ ] [Processes and Threads](#processes-and-threads)
+    - [ ] [Testing](#testing)
+    - [ ] [Scheduling](#scheduling)
+    - [ ] [String searching & manipulations](#string-searching--manipulations)
+    - [ ] [Tries](#tries)
+    - [ ] [Floating Point Numbers](#floating-point-numbers)
+    - [ ] [Unicode](#unicode)
+    - [ ] [Endianness](#endianness)
+    - [ ] [Networking](#networking)
+- [ ] [System Design, Scalability, Data Handling](#system-design-scalability-data-handling) (if you have 4+ years experience)
+- [ ] [Final Review](#final-review)
+- [ ] [Coding Question Practice](#coding-question-practice)
+- [ ] [Coding exercises/challenges](#coding-exerciseschallenges)
+- [ ] [Once you're closer to the interview](#once-youre-closer-to-the-interview)
 - [Your Resume](#your-resume)
 - [Be thinking of for when the interview comes](#be-thinking-of-for-when-the-interview-comes)
 - [Have questions for the interviewer](#have-questions-for-the-interviewer)
@@ -71,18 +71,18 @@
 
 - [Additional Books](#additional-books)
 - [Additional Learning](#additional-learning)
-    - [Compilers](#compilers)
-    - [Emacs and vi(m)](#emacs-and-vim)
-    - [Unix command line tools](#unix-command-line-tools)
+    - [ ] [Compilers](#compilers)
+    - [ ] [Emacs and vi(m)](#emacs-and-vim)
+    - [ ] [Unix command line tools](#unix-command-line-tools)
     - [Information theory](#information-theory-videos)
     - [Parity & Hamming Code](#parity--hamming-code-videos)
     - [Entropy](#entropy)
     - [Cryptography](#cryptography)
-    - [Compression](#compression)
-    - [Computer Security](#computer-security)
-    - [Garbage collection](#garbage-collection)
-    - [Parallel Programming](#parallel-programming)
-    - [Messaging, Serialization, and Queueing Systems](#messaging-serialization-and-queueing-systems)
+    - [ ] [Compression](#compression)
+    - [ ] [Computer Security](#computer-security)
+    - [ ] [Garbage collection](#garbage-collection)
+    - [ ] [Parallel Programming](#parallel-programming)
+    - [ ] [Messaging, Serialization, and Queueing Systems](#messaging-serialization-and-queueing-systems)
     - [A*](#a)
     - [Fast Fourier Transform](#fast-fourier-transform)
     - [Bloom Filter](#bloom-filter)
@@ -107,11 +107,9 @@
     - [Linear Programming](#linear-programming-videos)
     - [Geometry, Convex hull](#geometry-convex-hull-videos)
     - [Discrete math](#discrete-math)
-    - [Machine Learning](#machine-learning)
-- [Additional Detail on Some Subjects](#additional-detail-on-some-subjects)
-- [Video Series](#video-series)
-- [Computer Science Courses](#computer-science-courses)
-- [Papers](#papers)
+    - [ ] [Machine Learning](#machine-learning)
+- [ ] [Additional Detail on Some Subjects](#additional-detail-on-some-subjects)
+- [Miscellaneous](#video-series)
 
 ---
 
@@ -1074,8 +1072,6 @@ Graphs can be used to represent many problems in computer science, so this secti
 
 ## Coding Question Practice
 
-Now that you know all the computer science topics above, it's time to practice answering coding problems.
-
 **Coding question practice is not about memorizing answers to programming problems.**
 
 Why you need to practice doing programming problems:
@@ -1089,13 +1085,6 @@ Why you need to practice doing programming problems:
 There is a great intro for methodical, communicative problem solving in an interview. You'll get this from the programming
 interview books, too, but I found this outstanding:
 [Algorithm design canvas](http://www.hiredintech.com/algorithm-design/)
-
-No whiteboard at home? That makes sense. I'm a weirdo and have a big whiteboard. Instead of a whiteboard, pick up a
-large drawing pad from an art store. You can sit on the couch and practice. This is my "sofa whiteboard".
-I added the pen in the photo for scale. If you use a pen, you'll wish you could erase. Gets messy quick. I use a pencil 
-and eraser.
-
-![my sofa whiteboard](https://d3j2pkmjtin6ou.cloudfront.net/art_board_sm_2.jpg)
 
 Supplemental:
 
@@ -1768,17 +1757,17 @@ Sit back and enjoy. "Netflix and skill" :P
 
 - [Graph Theory by Sarada Herke (67 videos)](https://www.youtube.com/user/DrSaradaHerke/playlists?shelf_id=5&view=50&sort=dd)
 
-## Computer Science Courses
+### Computer Science Courses
 
 - [Directory of Online CS Courses](https://github.com/open-source-society/computer-science)
 - [Directory of CS Courses (many with online lectures)](https://github.com/prakhar1989/awesome-courses)
 
-## Algorithms implementation 
+### Algorithms implementation 
 
 - [Multiple Algorithms implementation by Princeton University)](https://algs4.cs.princeton.edu/code)
 
 
-## Papers
+### Papers
 
 - [Love classic papers?](https://www.cs.cmu.edu/~crary/819-f09/)
 - [1978: Communicating Sequential Processes](http://spinroot.com/courses/summer/Papers/hoare_1978.pdf)
@@ -1810,7 +1799,3 @@ Sit back and enjoy. "Netflix and skill" :P
 - [2015: How Developers Search for Code: A Case Study](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43835.pdf)
 - [2016: Borg, Omega, and Kubernetes](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44843.pdf)
 
-
-## LICENSE
-
-[CC-BY-SA-4.0](./LICENSE.txt)
