@@ -9,7 +9,6 @@
 - [Book List](#book-list)
 - [Before you Get Started](#before-you-get-started)
 - [The Daily Plan](#the-daily-plan)
-
 - [Prerequisite Knowledge](#prerequisite-knowledge)
 - [Algorithmic complexity / Big-O / Asymptotic analysis](#algorithmic-complexity--big-o--asymptotic-analysis)
 - [Data Structures](#data-structures)
