@@ -1,6 +1,6 @@
 # Coding Interview University
 
-### Merge with [this](https://github.com/firstcomdigital/Google-Interview-University) | [Redirection Links](https://github.com/mister0/How-to-prepare-for-google-interview-SWE-SRE)
+### [Redirection Links](https://github.com/mister0/How-to-prepare-for-google-interview-SWE-SRE)
 
 > I originally created this as a short to-do list of study topics for becoming a software engineer,
 > but it grew to the large list you see today. After going through this study plan, [I got hired
