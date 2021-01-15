@@ -6,11 +6,10 @@
 
 - [All about google](#dont-feel-you-arent-smart-enough)
 - [Interview Process & General Interview Prep](#interview-process--general-interview-prep)
-- [Pick One Language for the Interview](#pick-one-language-for-the-interview)
 - [Book List](#book-list)
 - [Before you Get Started](#before-you-get-started)
-- [What you Won't See Covered](#what-you-wont-see-covered)
 - [The Daily Plan](#the-daily-plan)
+
 - [Prerequisite Knowledge](#prerequisite-knowledge)
 - [Algorithmic complexity / Big-O / Asymptotic analysis](#algorithmic-complexity--big-o--asymptotic-analysis)
 - [Data Structures](#data-structures)
