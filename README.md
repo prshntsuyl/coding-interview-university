@@ -1,10 +1,10 @@
 # Coding Interview University
 
-### [Redirection Links](https://github.com/mister0/How-to-prepare-for-google-interview-SWE-SRE)
+### [Redirected Links](https://github.com/mister0/How-to-prepare-for-google-interview-SWE-SRE)
 
 ## Table of Contents
 
-- [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
+- [All about google](#dont-feel-you-arent-smart-enough)
 - [Interview Process & General Interview Prep](#interview-process--general-interview-prep)
 - [Pick One Language for the Interview](#pick-one-language-for-the-interview)
 - [Book List](#book-list)
@@ -123,7 +123,7 @@
 - [The myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
 - [It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://www.youtube.com/watch?v=1i8ylq4j_EY)
 
-## About Google
+### About Google
 
 - [ ] For students - [Google Careers: Technical Development Guide](https://www.google.com/about/careers/students/guide-to-technical-development.html)
 - [ ] How Search Works:
