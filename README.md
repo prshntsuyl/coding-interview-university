@@ -202,6 +202,11 @@ This is a shorter list than what I used. This is abbreviated to save you time.
 ### Interview Prep
 
 - [ ] [Programming Interviews Exposed: Coding Your Way Through the Interview, 4th Edition](https://www.amazon.com/Programming-Interviews-Exposed-Through-Interview/dp/111941847X/)
+	- [x] Chapter 1-4
+	- [ ] Chapter 5-9
+	- [ ] Chapter 10-14
+	- [ ] Chapter 15-16
+	- [ ] Chapter 17-19
 - [ ] [Cracking the Coding Interview, 6th Edition](http://www.amazon.com/Cracking-Coding-Interview-6th-Programming/dp/0984782850/)
 
 #### If you have tons of extra time:
